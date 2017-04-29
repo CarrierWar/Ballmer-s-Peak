@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
 VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ballmer's Peak", "Ballmer's Peak\Ballmer's Peak.csproj", "{FBBA6197-8F89-48CD-83A1-5817AC9F70BA}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson X - Lists", "Ballmer's Peak\Lesson X - Lists.csproj", "{FBBA6197-8F89-48CD-83A1-5817AC9F70BA}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
